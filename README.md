@@ -1,7 +1,7 @@
 <div style="text-align: center;">
     <img src="./public/EngineeringWithAshmit.png" alt="Engineering With Ashmit" style="width: 80%; height: 80%;"/>
     <h1>Engineering With Ayush</h1>
-    <p>A blogging application for Ashmit JaiSarita Gupta where he can share engineering stuffs he learns and does.</p>
+    <p>A blogging application for Ayush Raj where he can share engineering stuffs he learns and does.</p>
 </div>
 
 ## Visit the site
